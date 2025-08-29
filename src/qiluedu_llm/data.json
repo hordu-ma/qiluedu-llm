@@ -1,0 +1,23 @@
+{
+  "title": "员工信息报告",
+  "employee": {
+    "name": "张三",
+    "position": "软件工程师",
+    "department": "研发部",
+    "start_date": "2023-01-15",
+    "email": "zhangsan@example.com"
+  },
+  "projects": [
+    {
+      "name": "项目A",
+      "status": "进行中",
+      "leader": "李四"
+    },
+    {
+      "name": "项目B",
+      "status": "已完成",
+      "leader": "王五"
+    }
+  ]
+}
+
